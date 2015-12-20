@@ -1,0 +1,24 @@
+{
+  "name": "input-diff",
+  "version": "1.0.0",
+  "description": "A diff well suited for text input",
+  "main": "main.js",
+  "dependencies": {
+    "u-test": "^3.1.11"
+  },
+  "devDependencies": {
+    "u-test": ""
+  },
+  "scripts": {
+    "test": "u-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manvalls/input-diff.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manvalls/input-diff/issues"
+  },
+  "author": "Manuel Valls Fernández <manolo@vlrz.es>",
+  "license": "LGPL-3.0"
+}
