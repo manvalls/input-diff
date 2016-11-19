@@ -1,6 +1,6 @@
 {
   "name": "input-diff",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A diff well suited for text input",
   "main": "main.js",
   "dependencies": {},
